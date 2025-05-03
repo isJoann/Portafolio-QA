@@ -1,13 +1,35 @@
-### 📌 Portafolio de Software Testing - Joannfel Sardiña
+# 📌 Portafolio de Software Testing - Joannfel Sardiña
 
-En este portafolio dcocumentare mis conocimientos y mis prácticas en Testing Manual, Testing de APIs con Postman, gestión de bugs y casos de pruebas.
+Bienvenido/a a mi portafolio de pruebas de software. Aquí documento mis conocimientos y prácticas en Testing Manual, Testing de APIs con Postman, y gestión de pruebas utilizando herramientas como Jira.
 
-📂 Contenido del Portafolio
+---
 
-✅ Casos de prueba → Ejemplos de pruebas manuales.
-🐞 Reportes de errores (Bug Reports) → Documentación de bugs encontrados en sitios reales y/o sitios de pruebas.
-🔍 Pruebas en Postman → Pruebas de API con GET, POST y DELETE.
-📊 Gestión en Jira → Capturas y registros de mi gestión, documentación y reporte de pruebas con la herramienta Jira.
-📊 Gestión en Trello → Capturas y registros de mi gestión de pruebas con la herramienta Trello.
-🚀 ¡Espero que mi portafolio pueda demostrar satisfactoriamente mis habilidades y dejar en evidencia mis capacidades!
-📩 Contacto: - Email: joannfelsm@gmail.com - Linkdin: [url]
+## 📂 Contenido del Portafolio
+
+<!-- Falta ordenar el documento, cuando lo haga puedo añadir el contenido. -->
+
+<!-- * ✅ **Casos de prueba**
+  Ejemplos de pruebas manuales estructuradas, enfocadas en validar funcionalidades y detectar errores.
+
+* 🐞 **Reportes de errores (Bug Reports)**
+  Documentación detallada de bugs detectados en sitios reales y entornos de prueba.
+
+* 🔍 **Pruebas en Postman**
+  Testing de APIs utilizando métodos GET, POST y DELETE, con colecciones bien organizadas.
+
+* 📊 **Gestión en Jira**
+  Evidencia de mi experiencia registrando tareas, bugs y pruebas en entornos simulados de trabajo con Jira.
+
+* 📋 **Gestión en Trello**
+  Ejemplo de organización y seguimiento de pruebas en un entorno visual y ágil con Trello. -->
+
+---
+
+🚀 *Este portafolio busca reflejar mis habilidades, mi compromiso con la calidad y mi capacidad para integrarme en equipos de testing reales.*
+
+---
+
+## 📩 Contacto
+
+* ✉️ Email: [joannfelsm@gmail.com](mailto:joannfelsm@gmail.com)
+* 💼 LinkedIn: [sin asignar por ahora...]
